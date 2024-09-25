@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-I'm **Comfort Donkor**, an aspiring software developer passionate about learning new technologies and solving real-world problems with code!
+I'm **Comfort Donkor**, an aspiring software developer with a passion for both technology and business. I'm constantly learning new technologies and enjoy solving real-world problems with code while combining my interests in software development and business strategy.
 
 - 🔭 I’m currently working on improving my skills in **React** and **python**.
 - 🌱 I’m currently learning **SQL** and **front-end development** to become a well-rounded software developer.
+- 💼 Minoring in Business at UNC's Kenan-Flagler Business School, I'm passionate about merging my technical skills with business acumen to create innovative solutions.
 - 🤔 I’m looking for help with **mastering complex algorithms** and **data structures** to enhance my problem-solving skills.
 - 📫 How to reach me: comfy03@ad.unc.edu or connect with me on https://www.linkedin.com/in/comfort-donkor/
 - 😄 Pronouns: **She/Her**
