@@ -37,6 +37,8 @@ I'm **Comfort Donkor**, an aspiring data analyst with a passion for both technol
 
 <u> COVID-19 & Mental Health Dashboard </u>
 
+#### https://github.com/comfy03/covid19analysis
+
 - Analyzed Household Pulse Survey to conduct a time-series analysis on symptom indicating depression
 - Built an interactive Tableau dashboard to visualize disparities across various demographics
 - Demonstrated skills in data cleaning, data preparation and visualization
