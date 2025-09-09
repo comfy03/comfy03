@@ -26,16 +26,16 @@ I'm **Comfort Donkor**, an aspiring data analyst with a passion for both technol
 ✨ Fun fact: In my free time I run a photography business and enjoy doing portraits and merging my bussiness with computer science!
 
 
-### Projects:
+## Projects:
 
-<u> Captured by Comfy </u>
+### <u> Captured by Comfy </u>
 #### www.capturedbycomfy.com
 
 - Built with HTML, CSS, and JavaScript
 - Purpose: The site showcases professional photography services, allowing clients to explore portfolios, make inquiries, and book sessions for portraits, events, and more.
 - Responsive and professional design: Tailored for clients to ensure ease of use on both desktop and mobile.
 
-<u> COVID-19 & Mental Health Dashboard </u>
+### <u> COVID-19 & Mental Health Dashboard </u>
 
 #### https://github.com/comfy03/covid19analysis
 
