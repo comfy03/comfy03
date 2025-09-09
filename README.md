@@ -16,15 +16,14 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-I'm **Comfort Donkor**, an aspiring software developer with a passion for both technology and business. I'm constantly learning new technologies and enjoy solving real-world problems with code while combining my interests in software development and business strategy.
+I'm **Comfort Donkor**, an aspiring data analyst with a passion for both technology and business. I'm constantly learning new technologies and enjoy solving real-world problems with code while combining my interests in data analysis, software development, and communication.
 
-- 🔭 I’m currently working on improving my skills in **React** and **python**.
-- 🌱 I’m currently learning **SQL** and **front-end development** to become a well-rounded software developer.
-- 💼 Minoring in Business at UNC's Kenan-Flagler Business School, I'm passionate about merging my technical skills with business acumen to create innovative solutions.
-- 🤔 I’m looking for help with **mastering complex algorithms** and **data structures** to enhance my problem-solving skills.
-- 📫 How to reach me: comfy03@ad.unc.edu or connect with me on https://www.linkedin.com/in/comfort-donkor/
-- 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: In my free time I run a photography business and enjoy doing portraits and merging my bussiness with computer science!
+✨ I’m currently improving my skills in **python**, **SQL**, and **tableau**. <br />
+✨ Expanding knowledge in algorithms and data structures. <br />
+✨ Double majoring in data science and computer science <br />
+✨ How to reach me: comfy03@ad.unc.edu or connect with me on https://www.linkedin.com/in/comfort-donkor/ <br />
+✨ Pronouns: **She/Her** <br />
+✨ Fun fact: In my free time I run a photography business and enjoy doing portraits and merging my bussiness with computer science!
 
 
 ### Projects:
@@ -35,4 +34,10 @@ I'm **Comfort Donkor**, an aspiring software developer with a passion for both t
 - Built with HTML, CSS, and JavaScript
 - Purpose: The site showcases professional photography services, allowing clients to explore portfolios, make inquiries, and book sessions for portraits, events, and more.
 - Responsive and professional design: Tailored for clients to ensure ease of use on both desktop and mobile.
+
+<u> COVID-19 & Mental Health Dashboard </u>
+
+- Analyzed Household Pulse Survey to conduct a time-series analysis on symptom indicating depression
+- Built an interactive Tableau dashboard to visualize disparities across various demographics
+- Demonstrated skills in data cleaning, data preparation and visualization
 
