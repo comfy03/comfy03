@@ -45,7 +45,7 @@ I'm **Comfort Donkor**, an aspiring data analyst with a passion for both technol
 
 ### <u> Wearable Data Analytics Project </u>
 
-#### link
+#### https://github.com/comfy03/wearable-data-analysis
 
 - Explored real-world wearable and survey data to understand patterns in user behavior and outcomes
 - Cleaned and combined multiple datasets, turning raw data into clear, usable metrics
