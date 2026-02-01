@@ -43,3 +43,11 @@ I'm **Comfort Donkor**, an aspiring data analyst with a passion for both technol
 - Built an interactive Tableau dashboard to visualize disparities across various demographics
 - Demonstrated skills in data cleaning, data preparation and visualization
 
+### <u> Wearable Data Analytics Project </u>
+
+#### link
+
+- Explored real-world wearable and survey data to understand patterns in user behavior and outcomes
+- Cleaned and combined multiple datasets, turning raw data into clear, usable metrics
+- Practiced translating analysis results into clear takeaways and written summaries
+
